@@ -1,2 +1,4 @@
 # API de Games
-## Intensivão Java Spring Boot - DevSuperior
+
+Projeto desenvolvido durante o Intensivão Java Spring Boot - DevSuperior
+
